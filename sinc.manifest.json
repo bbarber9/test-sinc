@@ -1,0 +1,53 @@
+{
+  "tables": {
+    "sys_script_include": {
+      "records": {
+        "ExtendedScript": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "ExtendedScript",
+          "sys_id": "6c1222b91b7000107cdd7596cc4bcb08"
+        },
+        "BaseScript": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "BaseScript",
+          "sys_id": "c00222b91b7000107cdd7596cc4bcbcb"
+        },
+        "TestScriptInclude": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "TestScriptInclude",
+          "sys_id": "d9dc5ab11b7000107cdd7596cc4bcb6e"
+        }
+      }
+    },
+    "sys_ui_script": {
+      "records": {
+        "x_62845_sinc_demo.TestUIScript": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "x_62845_sinc_demo.TestUIScript",
+          "sys_id": "22ecdaf11b7000107cdd7596cc4bcbd3"
+        }
+      }
+    }
+  },
+  "scope": "x_62845_sinc_demo"
+}
